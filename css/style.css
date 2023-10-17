@@ -36,8 +36,8 @@
   background-color: #000;
 }
 
-#main-navbar #onpage {
-  text-decoration: underline overline;  
+#onpage {
+  text-decoration: underline;  
 }
 
 #sidebar {
